@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the Full Potential of Constraint Layout in Android Development"
-seoTitle: "Master Constraint Layout: Building Responsive & Efficient Android UI"
-seoDescription: "A Comprehensive Guide to Building Responsive and Efficient Android UIs: Unleashing the Power of Constraint Layout."
+seoTitle: "Master Constraint Layout: Android UI Guide"
+seoDescription: "Unlock responsive UI magic. Learn Constraint Layout in Android development. Elevate your app design skills with practical examples."
 datePublished: Mon Jul 31 2023 07:48:57 GMT+0000 (Coordinated Universal Time)
 cuid: clkqkjytq000809meccvq172w
 slug: harnessing-the-full-potential-of-constraint-layout-in-android-development
