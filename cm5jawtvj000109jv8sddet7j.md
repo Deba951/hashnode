@@ -5,7 +5,8 @@ seoDescription: "Learn how to use and set up Lookup Filters in Salesforce to imp
 datePublished: Sun Jan 05 2025 07:38:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm5jawtvj000109jv8sddet7j
 slug: lookup-filters-in-salesforce-a-comprehensive-guide
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1736062681756/a0e14390-46a4-4a30-8df2-87b88819f926.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736062896374/64a0c5a3-febb-4d32-a81b-1940c1765e3e.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1736062919537/a00c8eae-7496-4dc4-a3e4-8e24921dfa10.png
 tags: salesforce, salesforce-admin, data-integrity
 
 ---
